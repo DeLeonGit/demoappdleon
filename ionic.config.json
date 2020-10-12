@@ -1,0 +1,7 @@
+{
+  "name": "demoappdleon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
